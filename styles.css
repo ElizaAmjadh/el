@@ -1,0 +1,11 @@
+body {font-family: sans-serif; background-image: url('https://wallpaperaccess.com/full/852135.jpg');}
+p {
+color:green;
+font-style: italic;
+}
+table {
+margin: 40px;
+width:50%;
+}
+tr{
+height: 30px;
